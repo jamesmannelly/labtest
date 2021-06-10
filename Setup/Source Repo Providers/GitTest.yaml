@@ -1,0 +1,8 @@
+harnessApiVersion: '1.0'
+type: GIT
+branch: master
+keyAuth: false
+password: safeharness:AuciEfj8T-W6ierJud8jiA
+url: https://github.com/dwharness/admin_workloads
+urlType: REPO
+username: dwharness
