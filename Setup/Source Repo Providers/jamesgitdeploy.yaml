@@ -1,0 +1,11 @@
+harnessApiVersion: '1.0'
+type: GIT
+authorEmailId: james.mannelly@harness.io
+authorName: James Mannelly
+branch: main
+commitMessage: yeehaaaa!!!
+keyAuth: false
+password: safeharness:0wrEgRGTQSKB0saGOdmM7A
+url: https://github.com/jamesmannelly/labtest.git
+urlType: REPO
+username: jamesmannelly
